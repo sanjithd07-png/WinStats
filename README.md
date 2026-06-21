@@ -26,3 +26,5 @@ Installer: Inno Setup
 
 License
 Distributed under the MIT License. See LICENSE for more information.
+
+![WinStats UI](UI%20Screenshot.png)
